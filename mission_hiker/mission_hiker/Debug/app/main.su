@@ -1,0 +1,6 @@
+../app/main.c:34:6:process_ms	0	static
+../app/main.c:82:6:state_machine	32	static
+../app/main.c:55:5:main	8	static
+../app/main.c:206:6:process_test_button	16	static
+../app/main.c:223:6:process_test_photoresistor	8	static
+../app/main.c:240:6:process_test_telemeter	24	static

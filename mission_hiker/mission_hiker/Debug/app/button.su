@@ -1,0 +1,3 @@
+../app/button.c:35:13:process_ms	0	static
+../app/button.c:23:6:BUTTON_init	16	static
+../app/button.c:51:16:BUTTON_state_machine	16	static

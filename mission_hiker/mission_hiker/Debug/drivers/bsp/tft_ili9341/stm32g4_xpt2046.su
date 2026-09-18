@@ -1,0 +1,7 @@
+../drivers/bsp/tft_ili9341/stm32g4_xpt2046.c:325:17:XPT2046_getReading	16	static
+../drivers/bsp/tft_ili9341/stm32g4_xpt2046.c:345:13:XPT2046_convertCoordinateScreenMode	24	static
+../drivers/bsp/tft_ili9341/stm32g4_xpt2046.c:127:6:XPT2046_init	32	static
+../drivers/bsp/tft_ili9341/stm32g4_xpt2046.c:154:6:XPT2046_getCoordinates	64	static
+../drivers/bsp/tft_ili9341/stm32g4_xpt2046.c:224:6:XPT2046_getAverageCoordinates	48	static
+../drivers/bsp/tft_ili9341/stm32g4_xpt2046.c:268:6:XPT2046_getMedianCoordinates	72	static
+../drivers/bsp/tft_ili9341/stm32g4_xpt2046.c:91:6:XPT2046_demo	24	static

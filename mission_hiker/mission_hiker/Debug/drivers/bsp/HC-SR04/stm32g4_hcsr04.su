@@ -1,0 +1,10 @@
+../drivers/bsp/HC-SR04/stm32g4_hcsr04.c:211:17:HCSR04_ReadTimerUs	8	static
+../drivers/bsp/HC-SR04/stm32g4_hcsr04.c:163:13:HCSR04_callback	8	static
+../drivers/bsp/HC-SR04/stm32g4_hcsr04.c:216:13:HCSR04_RunTimerUs	8	static
+../drivers/bsp/HC-SR04/stm32g4_hcsr04.c:193:13:HCSR04_trig	16	static
+../drivers/bsp/HC-SR04/stm32g4_hcsr04.c:270:26:HCSR04_compute_distance	16	static
+../drivers/bsp/HC-SR04/stm32g4_hcsr04.c:121:19:BSP_HCSR04_add	40	static
+../drivers/bsp/HC-SR04/stm32g4_hcsr04.c:149:6:BSP_HCSR04_run_measure	8	static
+../drivers/bsp/HC-SR04/stm32g4_hcsr04.c:224:6:BSP_HCSR04_process_main	16	static
+../drivers/bsp/HC-SR04/stm32g4_hcsr04.c:328:19:BSP_HCSR04_get_value	0	static
+../drivers/bsp/HC-SR04/stm32g4_hcsr04.c:48:6:HCSR04_demo_state_machine	24	static
